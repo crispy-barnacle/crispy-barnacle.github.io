@@ -191,7 +191,7 @@
 				"time": "20:00:00"
 			}
 		],
-		"enabled": false
+		"enabled": true
 	},
 	{
 		"id": 6,
@@ -208,6 +208,6 @@
 				"time": "10:00:00"
 			}
 		],
-		"enabled": false
+		"enabled": true
 	}
 ]
