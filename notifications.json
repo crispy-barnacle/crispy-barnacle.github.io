@@ -176,7 +176,7 @@
 			},
 			{
 				"day": "Friday", 
-				"time": "20:55:00"
+				"time": "21:02:00"
 			},
 			{
 				"day": "Saturday", 
@@ -187,6 +187,6 @@
 				"time": "20:00:00"
 			}
 		],
-		"enabled": false
+		"enabled": true
 	}
 ]
