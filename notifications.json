@@ -10,31 +10,31 @@
 		"dates": [
 			{
 				"day": "Monday", 
-				"time": "14:22:00"
+				"time": "19:00:00"
 			},
 			{
 				"day": "Tuesday", 
-				"time": "14:22:00"
+				"time": "19:00:00"
 			},
 			{
 				"day": "Wednesday", 
-				"time": "14:22:00"
+				"time": "19:00:00"
 			},
 			{
 				"day": "Thursday", 
-				"time": "14:22:00"
+				"time": "19:00:00"
 			},
 			{
 				"day": "Friday", 
-				"time": "19:01:00"
+				"time": "19:00:00"
 			},
 			{
 				"day": "Saturday", 
-				"time": "14:22:00"
+				"time": "19:00:00"
 			},
 			{
 				"day": "Sunday", 
-				"time": "14:22:00"
+				"time": "19:00:00"
 			}
 		]
 	},
@@ -49,31 +49,31 @@
 		"dates": [
 			{
 				"day": "Monday", 
-				"time": "14:22:00"
+				"time": "10:00:00"
 			},
 			{
 				"day": "Tuesday", 
-				"time": "14:22:00"
+				"time": "10:00:00"
 			},
 			{
 				"day": "Wednesday", 
-				"time": "14:22:00"
+				"time": "10:00:00"
 			},
 			{
 				"day": "Thursday", 
-				"time": "14:22:00"
+				"time": "10:00:00"
 			},
 			{
 				"day": "Friday", 
-				"time": "19:01:00"
+				"time": "10:00:00"
 			},
 			{
 				"day": "Saturday", 
-				"time": "14:22:00"
+				"time": "10:00:00"
 			},
 			{
 				"day": "Sunday", 
-				"time": "14:22:00"
+				"time": "10:00:00"
 			}
 		]
 	},
@@ -88,31 +88,31 @@
 		"dates": [
 			{
 				"day": "Monday", 
-				"time": "14:22:00"
+				"time": "14:55:00"
 			},
 			{
 				"day": "Tuesday", 
-				"time": "14:22:00"
+				"time": "14:55:00"
 			},
 			{
 				"day": "Wednesday", 
-				"time": "14:22:00"
+				"time": "14:55:00"
 			},
 			{
 				"day": "Thursday", 
-				"time": "14:22:00"
+				"time": "14:55:00"
 			},
 			{
 				"day": "Friday", 
-				"time": "19:01:00"
+				"time": "14:55:00"
 			},
 			{
 				"day": "Saturday", 
-				"time": "14:22:00"
+				"time": "14:55:00"
 			},
 			{
 				"day": "Sunday", 
-				"time": "14:22:00"
+				"time": "14:55:00"
 			}
 		]
 	},
@@ -126,32 +126,8 @@
 		"color": 11342935,
 		"dates": [
 			{
-				"day": "Monday", 
-				"time": "14:22:00"
-			},
-			{
-				"day": "Tuesday", 
-				"time": "14:22:00"
-			},
-			{
-				"day": "Wednesday", 
-				"time": "14:22:00"
-			},
-			{
 				"day": "Thursday", 
-				"time": "14:22:00"
-			},
-			{
-				"day": "Friday", 
-				"time": "19:01:00"
-			},
-			{
-				"day": "Saturday", 
-				"time": "14:22:00"
-			},
-			{
-				"day": "Sunday", 
-				"time": "14:22:00"
+				"time": "18:00:00"
 			}
 		]
 	},
@@ -174,32 +150,8 @@
 		"color": 11027200,
 		"dates": [
 			{
-				"day": "Monday", 
-				"time": "14:22:00"
-			},
-			{
-				"day": "Tuesday", 
-				"time": "14:22:00"
-			},
-			{
-				"day": "Wednesday", 
-				"time": "14:22:00"
-			},
-			{
-				"day": "Thursday", 
-				"time": "14:22:00"
-			},
-			{
 				"day": "Friday", 
-				"time": "14:22:00"
-			},
-			{
-				"day": "Saturday", 
-				"time": "14:22:00"
-			},
-			{
-				"day": "Sunday", 
-				"time": "14:22:00"
+				"time": "19:20:00"
 			}
 		]
 	}
