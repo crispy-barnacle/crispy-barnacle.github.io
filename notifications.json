@@ -154,7 +154,7 @@
 				"value": "https://store.steampowered.com/points/shop"
 			}
 		],
-		"img": "https://crispy-barnacle.github.io/res/images/steam_regular.png",
+		"img": "",
 		"author": "Steam",
 		"color": 11027200,
 		"dates": [
@@ -176,7 +176,11 @@
 			},
 			{
 				"day": "Friday", 
-				"time": "20:00:00"
+				"time": "23:00:00"
+			},
+			{
+				"day": "Friday", 
+				"time": "23:00:00"
 			},
 			{
 				"day": "Saturday", 
@@ -185,6 +189,23 @@
 			{
 				"day": "Sunday", 
 				"time": "20:00:00"
+			}
+		],
+		"enabled": false
+	},
+	{
+		"id": 6,
+		"title": "Прошла неделя с момента подключения Heroku",
+		"description": "Если всё работаёт нормально, то можно отключить аккаунты Integromat",
+		"fix": [],
+		"fields": [],
+		"img": "",
+		"author": "Integromat",
+		"color": 11027200,
+		"dates": [
+			{
+				"day": "Saturday", 
+				"time": "10:00:00"
 			}
 		],
 		"enabled": false
