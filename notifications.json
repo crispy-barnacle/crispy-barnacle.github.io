@@ -3,6 +3,7 @@
 		"id": 1,
 		"title": "🔴🔴🔴 Hey! It is Red Team Gym Time! 👻🌟",
 		"description": "Put pokemon in a gym and make your coins jingle and shine!",
+		"fix": [],
 		"fields": [],
 		"img": "https://crispy-barnacle.github.io/res/images/pogo_red_team.png",
 		"author": "Pokemon GO: Team Valor",
@@ -42,6 +43,7 @@
 		"id": 2,
 		"title": "🔵🔵🔵 Hey! It is Blue Team Gym Time! 👻🌟",
 		"description": "Put pokemon in a gym and make your coins jingle and shine!",
+		"fix": [],
 		"fields": [],
 		"img": "https://crispy-barnacle.github.io/res/images/pogo_blue_team.png",
 		"author": "Pokemon GO: Team Mystic",
@@ -81,6 +83,7 @@
 		"id": 3,
 		"title": "<:SovunjaFunny:857914464266223617> Царь Горы Шарарама начнётся через 5 минут! <:KarychFunny:883375695856795648>",
 		"description": "https://www.shararam.ru/login/newgame",
+		"fix": [],
 		"fields": [],
 		"img": "https://crispy-barnacle.github.io/res/images/shararam.png",
 		"author": "Shararam",
@@ -120,6 +123,7 @@
 		"id": 4,
 		"title": "Hey! There is another free game available on Epic Games Store",
 		"description": "https://www.epicgames.com/store/free-games",
+		"fix": [],
 		"fields": [],
 		"img": "https://crispy-barnacle.github.io/res/images/egs_regular.png",
 		"author": "Epic Games Store",
@@ -135,6 +139,7 @@
 		"id": 5,
 		"title": "Steam: Christmas (22 Dec - 5 Jan)",
 		"description": "",
+		"fix": [],
 		"fields": [
 			{
 				"name": "Ежедневно получайте бесплатную карточку, просматривая список рекомендаций",
@@ -151,7 +156,7 @@
 		"dates": [
 			{
 				"day": "Friday", 
-				"time": "19:43:00"
+				"time": "20:00:00"
 			}
 		]
 	}
