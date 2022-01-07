@@ -27,7 +27,7 @@
 			},
 			{
 				"day": "Friday", 
-				"time": "20:15:00"
+				"time": "19:00:00"
 			},
 			{
 				"day": "Saturday", 
@@ -37,7 +37,8 @@
 				"day": "Sunday", 
 				"time": "19:00:00"
 			}
-		]
+		],
+		"enabled": true
 	},
 	{
 		"id": 2,
@@ -67,7 +68,7 @@
 			},
 			{
 				"day": "Friday", 
-				"time": "20:16:00"
+				"time": "10:00:00"
 			},
 			{
 				"day": "Saturday", 
@@ -77,7 +78,8 @@
 				"day": "Sunday", 
 				"time": "10:00:00"
 			}
-		]
+		],
+		"enabled": true
 	},
 	{
 		"id": 3,
@@ -107,7 +109,7 @@
 			},
 			{
 				"day": "Friday", 
-				"time": "20:17:00"
+				"time": "14:55:00"
 			},
 			{
 				"day": "Saturday", 
@@ -117,7 +119,8 @@
 				"day": "Sunday", 
 				"time": "14:55:00"
 			}
-		]
+		],
+		"enabled": true
 	},
 	{
 		"id": 4,
@@ -131,13 +134,10 @@
 		"dates": [
 			{
 				"day": "Thursday", 
-				"time": "18:05:00"
-			},
-			{
-				"day": "Friday", 
-				"time": "20:18:00"
+				"time": "18:00:00"
 			}
-		]
+		],
+		"enabled": true
 	},
 	{
 		"id": 5,
@@ -159,36 +159,34 @@
 		"color": 11027200,
 		"dates": [
 			{
-				"day": "Friday", 
-				"time": "20:19:00"
-			}
-		]
-	},
-	{
-		"id": 6,
-		"title": "Random",
-		"description": "Heh",
-		"fix": [],
-		"fields": [],
-		"img": "https://crispy-barnacle.github.io/res/images/steam_regular.png",
-		"author": "Steam",
-		"color": 11027200,
-		"dates": [
+				"day": "Monday", 
+				"time": "20:00:00"
+			},
+			{
+				"day": "Tuesday", 
+				"time": "20:00:00"
+			},
+			{
+				"day": "Wednesday", 
+				"time": "20:00:00"
+			},
+			{
+				"day": "Thursday", 
+				"time": "20:00:00"
+			},
 			{
 				"day": "Friday", 
-				"time": "20:20:00"
+				"time": "20:50:00"
+			},
+			{
+				"day": "Saturday", 
+				"time": "20:00:00"
+			},
+			{
+				"day": "Sunday", 
+				"time": "20:00:00"
 			}
-		]
-	},
-		{
-		"id": 7,
-		"title": "Random2",
-		"description": "Heh",
-		"fix": [],
-		"fields": [],
-		"img": "https://crispy-barnacle.github.io/res/images/steam_regular.png",
-		"author": "Steam",
-		"color": 11027200,
-		"dates": []
+		],
+		"enabled": true
 	}
 ]
