@@ -27,7 +27,7 @@
 			},
 			{
 				"day": "Friday", 
-				"time": "20:09:00"
+				"time": "20:15:00"
 			},
 			{
 				"day": "Saturday", 
@@ -67,7 +67,7 @@
 			},
 			{
 				"day": "Friday", 
-				"time": "20:08:00"
+				"time": "20:16:00"
 			},
 			{
 				"day": "Saturday", 
@@ -107,7 +107,7 @@
 			},
 			{
 				"day": "Friday", 
-				"time": "20:07:00"
+				"time": "20:17:00"
 			},
 			{
 				"day": "Saturday", 
@@ -135,7 +135,7 @@
 			},
 			{
 				"day": "Friday", 
-				"time": "20:06:00"
+				"time": "20:18:00"
 			}
 		]
 	},
@@ -160,8 +160,35 @@
 		"dates": [
 			{
 				"day": "Friday", 
-				"time": "20:05:00"
+				"time": "20:19:00"
 			}
 		]
+	},
+	{
+		"id": 6,
+		"title": "Random",
+		"description": "Heh",
+		"fix": [],
+		"fields": [],
+		"img": "https://crispy-barnacle.github.io/res/images/steam_regular.png",
+		"author": "Steam",
+		"color": 11027200,
+		"dates": [
+			{
+				"day": "Friday", 
+				"time": "20:20:00"
+			}
+		]
+	},
+		{
+		"id": 7,
+		"title": "Random2",
+		"description": "Heh",
+		"fix": [],
+		"fields": [],
+		"img": "https://crispy-barnacle.github.io/res/images/steam_regular.png",
+		"author": "Steam",
+		"color": 11027200,
+		"dates": []
 	}
 ]
