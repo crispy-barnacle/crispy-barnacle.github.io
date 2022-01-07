@@ -154,7 +154,7 @@
 				"value": "https://store.steampowered.com/points/shop"
 			}
 		],
-		"img": "",
+		"img": "https://crispy-barnacle.github.io/res/images/steam_regular.png",
 		"author": "Steam",
 		"color": 11027200,
 		"dates": [
@@ -176,11 +176,7 @@
 			},
 			{
 				"day": "Friday", 
-				"time": "23:00:00"
-			},
-			{
-				"day": "Friday", 
-				"time": "23:00:00"
+				"time": "20:00:00"
 			},
 			{
 				"day": "Saturday", 
@@ -191,7 +187,7 @@
 				"time": "20:00:00"
 			}
 		],
-		"enabled": true
+		"enabled": false
 	},
 	{
 		"id": 6,
