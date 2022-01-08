@@ -3,7 +3,6 @@
     "id": 1,
     "title": "🔴🔴🔴 Hey! It is Red Team Gym Time! 👻🌟",
     "description": "Put pokemon in a gym and make your coins jingle and shine!",
-    "fix": [],
     "fields": [],
     "img": "https://crispy-barnacle.github.io/res/images/pogo_red_team.png",
     "author": "Pokemon GO: Team Valor",
@@ -31,7 +30,7 @@
       },
       {
         "day": "Saturday",
-        "time": "12:37:00"
+        "time": "12:46:00"
       },
       {
         "day": "Sunday",
@@ -44,7 +43,6 @@
     "id": 2,
     "title": "🔵🔵🔵 Hey! It is Blue Team Gym Time! 👻🌟",
     "description": "Put pokemon in a gym and make your coins jingle and shine!",
-    "fix": [],
     "fields": [],
     "img": "https://crispy-barnacle.github.io/res/images/pogo_blue_team.png",
     "author": "Pokemon GO: Team Mystic",
@@ -72,7 +70,7 @@
       },
       {
         "day": "Saturday",
-        "time": "12:37:00"
+        "time": "12:46:30"
       },
       {
         "day": "Sunday",
@@ -85,7 +83,6 @@
     "id": 3,
     "title": "<:SovunjaFunny:857914464266223617> Царь Горы Шарарама начнётся через 5 минут! <:KarychFunny:883375695856795648>",
     "description": "https://www.shararam.ru/login/newgame",
-    "fix": [],
     "fields": [],
     "img": "https://crispy-barnacle.github.io/res/images/shararam.png",
     "author": "Shararam",
@@ -113,7 +110,7 @@
       },
       {
         "day": "Saturday",
-        "time": "12:38:00"
+        "time": "12:47:00"
       },
       {
         "day": "Sunday",
@@ -126,7 +123,6 @@
     "id": 4,
     "title": "Hey! There is another free game available on Epic Games Store",
     "description": "https://www.epicgames.com/store/free-games",
-    "fix": [],
     "fields": [],
     "img": "https://crispy-barnacle.github.io/res/images/egs_regular.png",
     "author": "Epic Games Store",
@@ -138,7 +134,7 @@
       },
       {
         "day": "Saturday",
-        "time": "12:39:00"
+        "time": "12:48:00"
       }
     ],
     "enabled": true
@@ -147,7 +143,6 @@
     "id": 5,
     "title": "Steam: Christmas (22 Dec - 5 Jan)",
     "description": "",
-    "fix": [],
     "fields": [
       {
         "name": "Ежедневно получайте бесплатную карточку, просматривая список рекомендаций",
@@ -184,7 +179,7 @@
       },
       {
         "day": "Saturday",
-        "time": "12:40:00"
+        "time": "12:49:00"
       },
       {
         "day": "Sunday",
@@ -197,7 +192,6 @@
     "id": 6,
     "title": "Прошла неделя с момента подключения Heroku",
     "description": "Если всё работаёт нормально, то можно отключить аккаунты Integromat",
-    "fix": [],
     "fields": [],
     "img": "",
     "author": "Integromat",
@@ -205,7 +199,7 @@
     "dates": [
       {
         "day": "Saturday",
-        "time": "12:40:00"
+        "time": "12:50:00"
       }
     ],
     "enabled": true
