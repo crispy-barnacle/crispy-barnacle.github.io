@@ -1,209 +1,209 @@
 [
-	{
-		"id": 1,
-		"title": "🔴🔴🔴 Hey! It is Red Team Gym Time! 👻🌟",
-		"description": "Put pokemon in a gym and make your coins jingle and shine!",
-		"fix": [],
-		"fields": [],
-		"img": "https://crispy-barnacle.github.io/res/images/pogo_red_team.png",
-		"author": "Pokemon GO: Team Valor",
-		"color": 15158332,
-		"dates": [
-			{
-				"day": "Monday", 
-				"time": "19:00:00"
-			},
-			{
-				"day": "Tuesday", 
-				"time": "19:00:00"
-			},
-			{
-				"day": "Wednesday", 
-				"time": "19:00:00"
-			},
-			{
-				"day": "Thursday", 
-				"time": "19:00:00"
-			},
-			{
-				"day": "Friday", 
-				"time": "19:00:00"
-			},
-			{
-				"day": "Saturday", 
-				"time": "19:00:00"
-			},
-			{
-				"day": "Sunday", 
-				"time": "19:00:00"
-			}
-		],
-		"enabled": true
-	},
-	{
-		"id": 2,
-		"title": "🔵🔵🔵 Hey! It is Blue Team Gym Time! 👻🌟",
-		"description": "Put pokemon in a gym and make your coins jingle and shine!",
-		"fix": [],
-		"fields": [],
-		"img": "https://crispy-barnacle.github.io/res/images/pogo_blue_team.png",
-		"author": "Pokemon GO: Team Mystic",
-		"color": 3447003,
-		"dates": [
-			{
-				"day": "Monday", 
-				"time": "10:00:00"
-			},
-			{
-				"day": "Tuesday", 
-				"time": "10:00:00"
-			},
-			{
-				"day": "Wednesday", 
-				"time": "10:00:00"
-			},
-			{
-				"day": "Thursday", 
-				"time": "10:00:00"
-			},
-			{
-				"day": "Friday", 
-				"time": "10:00:00"
-			},
-			{
-				"day": "Saturday", 
-				"time": "10:00:00"
-			},
-			{
-				"day": "Sunday", 
-				"time": "10:00:00"
-			}
-		],
-		"enabled": true
-	},
-	{
-		"id": 3,
-		"title": "<:SovunjaFunny:857914464266223617> Царь Горы Шарарама начнётся через 5 минут! <:KarychFunny:883375695856795648>",
-		"description": "https://www.shararam.ru/login/newgame",
-		"fix": [],
-		"fields": [],
-		"img": "https://crispy-barnacle.github.io/res/images/shararam.png",
-		"author": "Shararam",
-		"color": 10181046,
-		"dates": [
-			{
-				"day": "Monday", 
-				"time": "14:55:00"
-			},
-			{
-				"day": "Tuesday", 
-				"time": "14:55:00"
-			},
-			{
-				"day": "Wednesday", 
-				"time": "14:55:00"
-			},
-			{
-				"day": "Thursday", 
-				"time": "14:55:00"
-			},
-			{
-				"day": "Friday", 
-				"time": "14:55:00"
-			},
-			{
-				"day": "Saturday", 
-				"time": "14:55:00"
-			},
-			{
-				"day": "Sunday", 
-				"time": "14:55:00"
-			}
-		],
-		"enabled": true
-	},
-	{
-		"id": 4,
-		"title": "Hey! There is another free game available on Epic Games Store",
-		"description": "https://www.epicgames.com/store/free-games",
-		"fix": [],
-		"fields": [],
-		"img": "https://crispy-barnacle.github.io/res/images/egs_regular.png",
-		"author": "Epic Games Store",
-		"color": 11342935,
-		"dates": [
-			{
-				"day": "Thursday", 
-				"time": "18:00:00"
-			}
-		],
-		"enabled": true
-	},
-	{
-		"id": 5,
-		"title": "Steam: Christmas (22 Dec - 5 Jan)",
-		"description": "",
-		"fix": [],
-		"fields": [
-			{
-				"name": "Ежедневно получайте бесплатную карточку, просматривая список рекомендаций",
-				"value": "https://store.steampowered.com/explore"
-			},
-			{
-				"name": "Каждые два дня получайте бесплатный стикер",
-				"value": "https://store.steampowered.com/points/shop"
-			}
-		],
-		"img": "https://crispy-barnacle.github.io/res/images/steam_regular.png",
-		"author": "Steam",
-		"color": 11027200,
-		"dates": [
-			{
-				"day": "Monday", 
-				"time": "20:00:00"
-			},
-			{
-				"day": "Tuesday", 
-				"time": "20:00:00"
-			},
-			{
-				"day": "Wednesday", 
-				"time": "20:00:00"
-			},
-			{
-				"day": "Thursday", 
-				"time": "20:00:00"
-			},
-			{
-				"day": "Friday", 
-				"time": "20:00:00"
-			},
-			{
-				"day": "Saturday", 
-				"time": "20:00:00"
-			},
-			{
-				"day": "Sunday", 
-				"time": "20:00:00"
-			}
-		],
-		"enabled": false
-	},
-	{
-		"id": 6,
-		"title": "Прошла неделя с момента подключения Heroku",
-		"description": "Если всё работаёт нормально, то можно отключить аккаунты Integromat",
-		"fix": [],
-		"fields": [],
-		"img": "",
-		"author": "Integromat",
-		"color": 11027200,
-		"dates": [
-			{
-				"day": "Saturday", 
-				"time": "10:00:00"
-			}
-		],
-		"enabled": true
-	}
+  {
+    "id": 1,
+    "title": "🔴🔴🔴 Hey! It is Red Team Gym Time! 👻🌟",
+    "description": "Put pokemon in a gym and make your coins jingle and shine!",
+    "fix": [],
+    "fields": [],
+    "img": "https://crispy-barnacle.github.io/res/images/pogo_red_team.png",
+    "author": "Pokemon GO: Team Valor",
+    "color": 15158332,
+    "dates": [
+      {
+        "day": "Monday",
+        "time": "19:00:00"
+      },
+      {
+        "day": "Tuesday",
+        "time": "19:00:00"
+      },
+      {
+        "day": "Wednesday",
+        "time": "19:00:00"
+      },
+      {
+        "day": "Thursday",
+        "time": "19:00:00"
+      },
+      {
+        "day": "Friday",
+        "time": "19:00:00"
+      },
+      {
+        "day": "Saturday",
+        "time": "19:00:00"
+      },
+      {
+        "day": "Sunday",
+        "time": "19:00:00"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "id": 2,
+    "title": "🔵🔵🔵 Hey! It is Blue Team Gym Time! 👻🌟",
+    "description": "Put pokemon in a gym and make your coins jingle and shine!",
+    "fix": [],
+    "fields": [],
+    "img": "https://crispy-barnacle.github.io/res/images/pogo_blue_team.png",
+    "author": "Pokemon GO: Team Mystic",
+    "color": 3447003,
+    "dates": [
+      {
+        "day": "Monday",
+        "time": "10:00:00"
+      },
+      {
+        "day": "Tuesday",
+        "time": "10:00:00"
+      },
+      {
+        "day": "Wednesday",
+        "time": "10:00:00"
+      },
+      {
+        "day": "Thursday",
+        "time": "10:00:00"
+      },
+      {
+        "day": "Friday",
+        "time": "10:00:00"
+      },
+      {
+        "day": "Saturday",
+        "time": "10:00:00"
+      },
+      {
+        "day": "Sunday",
+        "time": "10:00:00"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "id": 3,
+    "title": "<:SovunjaFunny:857914464266223617> Царь Горы Шарарама начнётся через 5 минут! <:KarychFunny:883375695856795648>",
+    "description": "https://www.shararam.ru/login/newgame",
+    "fix": [],
+    "fields": [],
+    "img": "https://crispy-barnacle.github.io/res/images/shararam.png",
+    "author": "Shararam",
+    "color": 10181046,
+    "dates": [
+      {
+        "day": "Monday",
+        "time": "14:55:00"
+      },
+      {
+        "day": "Tuesday",
+        "time": "14:55:00"
+      },
+      {
+        "day": "Wednesday",
+        "time": "14:55:00"
+      },
+      {
+        "day": "Thursday",
+        "time": "14:55:00"
+      },
+      {
+        "day": "Friday",
+        "time": "14:55:00"
+      },
+      {
+        "day": "Saturday",
+        "time": "14:55:00"
+      },
+      {
+        "day": "Sunday",
+        "time": "14:55:00"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "id": 4,
+    "title": "Hey! There is another free game available on Epic Games Store",
+    "description": "https://www.epicgames.com/store/free-games",
+    "fix": [],
+    "fields": [],
+    "img": "https://crispy-barnacle.github.io/res/images/egs_regular.png",
+    "author": "Epic Games Store",
+    "color": 11342935,
+    "dates": [
+      {
+        "day": "Thursday",
+        "time": "18:00:00"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "id": 5,
+    "title": "Steam: Christmas (22 Dec - 5 Jan)",
+    "description": "",
+    "fix": [],
+    "fields": [
+      {
+        "name": "Ежедневно получайте бесплатную карточку, просматривая список рекомендаций",
+        "value": "https://store.steampowered.com/explore"
+      },
+      {
+        "name": "Каждые два дня получайте бесплатный стикер",
+        "value": "https://store.steampowered.com/points/shop"
+      }
+    ],
+    "img": "https://crispy-barnacle.github.io/res/images/steam_regular.png",
+    "author": "Steam",
+    "color": 11027200,
+    "dates": [
+      {
+        "day": "Monday",
+        "time": "20:00:00"
+      },
+      {
+        "day": "Tuesday",
+        "time": "20:00:00"
+      },
+      {
+        "day": "Wednesday",
+        "time": "20:00:00"
+      },
+      {
+        "day": "Thursday",
+        "time": "20:00:00"
+      },
+      {
+        "day": "Friday",
+        "time": "20:00:00"
+      },
+      {
+        "day": "Saturday",
+        "time": "20:00:00"
+      },
+      {
+        "day": "Sunday",
+        "time": "20:00:00"
+      }
+    ],
+    "enabled": false
+  },
+  {
+    "id": 6,
+    "title": "Прошла неделя с момента подключения Heroku",
+    "description": "Если всё работаёт нормально, то можно отключить аккаунты Integromat",
+    "fix": [],
+    "fields": [],
+    "img": "",
+    "author": "Integromat",
+    "color": 11027200,
+    "dates": [
+      {
+        "day": "Saturday",
+        "time": "10:00:00"
+      }
+    ],
+    "enabled": true
+  }
 ]
