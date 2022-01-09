@@ -8,7 +8,7 @@
       "embeds": [
         {
           "title": "🔴🔴🔴 Hey! It is Red Team Gym Time! 👻🌟",
-          "description": "Put pokemon in a gym and make your coins jingle and shine! <a:CoolDogeGif:880857203400138793>",
+          "description": "Put pokemon in a gym and make your coins jingle and shine!",
           "fields": [],
           "footer": {
             "text": "",
@@ -46,10 +46,6 @@
       {
         "day": "Sunday",
         "time": "19:00:00"
-      },
-      {
-        "day": "Sunday",
-        "time": "20:18:00"
       }
     ],
     "enabled": true
@@ -63,7 +59,7 @@
       "embeds": [
         {
           "title": "🔵🔵🔵 Hey! It is Blue Team Gym Time! 👻🌟",
-          "description": "Put pokemon in a gym and make your coins jingle and shine! <a:CoolDogeGif:880857203400138793>",
+          "description": "Put pokemon in a gym and make your coins jingle and shine!",
           "fields": [],
           "footer": {
             "text": "",
@@ -101,10 +97,6 @@
       {
         "day": "Sunday",
         "time": "10:00:00"
-      },
-      {
-        "day": "Sunday",
-        "time": "20:17:00"
       }
     ],
     "enabled": true
@@ -156,10 +148,6 @@
       {
         "day": "Sunday",
         "time": "14:55:00"
-      },
-      {
-        "day": "Sunday",
-        "time": "20:16:00"
       }
     ],
     "enabled": true
@@ -173,7 +161,7 @@
       "embeds": [
         {
           "title": "Hey! There is another free game available on Epic Games Store",
-          "description": "https://www.epicgames.com/store/free-games",
+          "description": "https://www.epicgames.com/store/free-games <a:CoolDogeGif:880857203400138793>",
           "fields": [],
           "footer": {
             "text": "",
@@ -187,10 +175,6 @@
       {
         "day": "Thursday",
         "time": "18:00:00"
-      },
-      {
-        "day": "Sunday",
-        "time": "20:15:00"
       }
     ],
     "enabled": true
@@ -251,13 +235,9 @@
       {
         "day": "Sunday",
         "time": "20:00:00"
-      },
-      {
-        "day": "Sunday",
-        "time": "20:14:00"
       }
     ],
-    "enabled": true
+    "enabled": false
   },
   {
     "id": 6,
@@ -282,10 +262,6 @@
       {
         "day": "Saturday",
         "time": "10:00:00"
-      },
-      {
-        "day": "Sunday",
-        "time": "20:14:00"
       }
     ],
     "enabled": true
