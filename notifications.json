@@ -1,269 +1,269 @@
 [
-  {
-    "id": 1,
-    "request_body": {
-      "username": "Pokemon GO: Team Valor",
-      "avatar_url": "https://crispy-barnacle.github.io/res/images/pogo_red_team.png",
-      "content": "",
-      "embeds": [
-        {
-          "title": "🔴🔴🔴 Hey! It is Red Team Gym Time! 👻🌟",
-          "description": "Put pokemon in a gym and make your coins jingle and shine!",
-          "fields": [],
-          "footer": {
-            "text": "",
-            "icon_url": ""
-          },
-          "color": 15158332
-        }
-      ]
-    },
-    "dates": [
-      {
-        "day": "Monday",
-        "time": "19:00:00"
-      },
-      {
-        "day": "Tuesday",
-        "time": "19:00:00"
-      },
-      {
-        "day": "Wednesday",
-        "time": "19:00:00"
-      },
-      {
-        "day": "Thursday",
-        "time": "19:00:00"
-      },
-      {
-        "day": "Friday",
-        "time": "19:00:00"
-      },
-      {
-        "day": "Saturday",
-        "time": "19:00:00"
-      },
-      {
-        "day": "Sunday",
-        "time": "19:00:00"
-      }
-    ],
-    "enabled": true
-  },
-  {
-    "id": 2,
-    "request_body": {
-      "username": "Pokemon GO: Team Mystic",
-      "avatar_url": "https://crispy-barnacle.github.io/res/images/pogo_blue_team.png",
-      "content": "",
-      "embeds": [
-        {
-          "title": "🔵🔵🔵 Hey! It is Blue Team Gym Time! 👻🌟",
-          "description": "Put pokemon in a gym and make your coins jingle and shine!",
-          "fields": [],
-          "footer": {
-            "text": "",
-            "icon_url": ""
-          },
-          "color": 3447003
-        }
-      ]
-    },
-    "dates": [
-      {
-        "day": "Monday",
-        "time": "10:00:00"
-      },
-      {
-        "day": "Tuesday",
-        "time": "10:00:00"
-      },
-      {
-        "day": "Wednesday",
-        "time": "10:00:00"
-      },
-      {
-        "day": "Thursday",
-        "time": "10:00:00"
-      },
-      {
-        "day": "Friday",
-        "time": "10:00:00"
-      },
-      {
-        "day": "Saturday",
-        "time": "10:00:00"
-      },
-      {
-        "day": "Sunday",
-        "time": "10:00:00"
-      }
-    ],
-    "enabled": true
-  },
-  {
-    "id": 3,
-    "request_body": {
-      "username": "Shararam",
-      "avatar_url": "https://crispy-barnacle.github.io/res/images/shararam.png",
-      "content": "",
-      "embeds": [
-        {
-          "title": "<:SovunjaFunny:857914464266223617> Царь Горы Шарарама начнётся через 5 минут! <:KarychFunny:883375695856795648>",
-          "description": "https://www.shararam.ru/login/newgame",
-          "fields": [],
-          "footer": {
-            "text": "",
-            "icon_url": ""
-          },
-          "color": 10181046
-        }
-      ]
-    },
-    "dates": [
-      {
-        "day": "Monday",
-        "time": "14:55:00"
-      },
-      {
-        "day": "Tuesday",
-        "time": "14:55:00"
-      },
-      {
-        "day": "Wednesday",
-        "time": "14:55:00"
-      },
-      {
-        "day": "Thursday",
-        "time": "14:55:00"
-      },
-      {
-        "day": "Friday",
-        "time": "14:55:00"
-      },
-      {
-        "day": "Saturday",
-        "time": "14:55:00"
-      },
-      {
-        "day": "Sunday",
-        "time": "14:55:00"
-      }
-    ],
-    "enabled": true
-  },
-  {
-    "id": 4,
-    "request_body": {
-      "username": "Epic Games Store",
-      "avatar_url": "https://crispy-barnacle.github.io/res/images/egs_regular.png",
-      "content": "",
-      "embeds": [
-        {
-          "title": "Hey! There is another free game available on Epic Games Store",
-          "description": "https://www.epicgames.com/store/free-games <a:CoolDogeGif:880857203400138793>",
-          "fields": [],
-          "footer": {
-            "text": "",
-            "icon_url": ""
-          },
-          "color": 11342935
-        }
-      ]
-    },
-    "dates": [
-      {
-        "day": "Thursday",
-        "time": "18:00:00"
-      }
-    ],
-    "enabled": true
-  },
-  {
-    "id": 5,
-    "request_body": {
-      "username": "Steam",
-      "avatar_url": "https://crispy-barnacle.github.io/res/images/steam_regular.png",
-      "content": "",
-      "embeds": [
-        {
-          "title": "Steam: Christmas (22 Dec - 5 Jan)",
-          "description": "",
-          "fields": [
+    {
+        "id": 1,
+        "request_body": {
+            "username": "Pokemon GO: Team Valor",
+            "avatar_url": "https://crispy-barnacle.github.io/res/images/pogo_red_team.png",
+            "content": "",
+            "embeds": [
+                {
+                    "title": "🔴🔴🔴 Hey! It is Red Team Gym Time! 👻🌟",
+                    "description": "Put pokemon in a gym and make your coins jingle and shine!",
+                    "fields": [],
+                    "footer": {
+                        "text": "",
+                        "icon_url": ""
+                    },
+                    "color": 15158332
+                }
+            ]
+        },
+        "dates": [
             {
-              "name": "Ежедневно получайте бесплатную карточку, просматривая список рекомендаций",
-              "value": "https://store.steampowered.com/explore"
+                "day": "Monday",
+                "time": "19:00:00"
             },
             {
-              "name": "Каждые два дня получайте бесплатный стикер",
-              "value": "https://store.steampowered.com/points/shop"
+                "day": "Tuesday",
+                "time": "19:00:00"
+            },
+            {
+                "day": "Wednesday",
+                "time": "19:00:00"
+            },
+            {
+                "day": "Thursday",
+                "time": "19:00:00"
+            },
+            {
+                "day": "Friday",
+                "time": "19:00:00"
+            },
+            {
+                "day": "Saturday",
+                "time": "19:00:00"
+            },
+            {
+                "day": "Sunday",
+                "time": "19:00:00"
             }
-          ],
-          "footer": {
-            "text": "",
-            "icon_url": ""
-          },
-          "color": 11027200
-        }
-      ]
+        ],
+        "enabled": true
     },
-    "dates": [
-      {
-        "day": "Monday",
-        "time": "20:00:00"
-      },
-      {
-        "day": "Tuesday",
-        "time": "20:00:00"
-      },
-      {
-        "day": "Wednesday",
-        "time": "20:00:00"
-      },
-      {
-        "day": "Thursday",
-        "time": "20:00:00"
-      },
-      {
-        "day": "Friday",
-        "time": "20:00:00"
-      },
-      {
-        "day": "Saturday",
-        "time": "20:00:00"
-      },
-      {
-        "day": "Sunday",
-        "time": "20:00:00"
-      }
-    ],
-    "enabled": false
-  },
-  {
-    "id": 6,
-    "request_body": {
-      "username": "Integromat",
-      "avatar_url": "",
-      "content": "",
-      "embeds": [
-        {
-          "title": "Прошла неделя с момента подключения Heroku",
-          "description": "Если всё работаёт нормально, то можно отключить аккаунты Integromat",
-          "fields": [],
-          "footer": {
-            "text": "",
-            "icon_url": ""
-          },
-          "color": 11027200
-        }
-      ]
+    {
+        "id": 2,
+        "request_body": {
+            "username": "Pokemon GO: Team Mystic",
+            "avatar_url": "https://crispy-barnacle.github.io/res/images/pogo_blue_team.png",
+            "content": "",
+            "embeds": [
+                {
+                    "title": "🔵🔵🔵 Hey! It is Blue Team Gym Time! 👻🌟",
+                    "description": "Put pokemon in a gym and make your coins jingle and shine!",
+                    "fields": [],
+                    "footer": {
+                        "text": "",
+                        "icon_url": ""
+                    },
+                    "color": 3447003
+                }
+            ]
+        },
+        "dates": [
+            {
+                "day": "Monday",
+                "time": "10:00:00"
+            },
+            {
+                "day": "Tuesday",
+                "time": "10:00:00"
+            },
+            {
+                "day": "Wednesday",
+                "time": "10:00:00"
+            },
+            {
+                "day": "Thursday",
+                "time": "10:00:00"
+            },
+            {
+                "day": "Friday",
+                "time": "10:00:00"
+            },
+            {
+                "day": "Saturday",
+                "time": "10:00:00"
+            },
+            {
+                "day": "Sunday",
+                "time": "10:00:00"
+            }
+        ],
+        "enabled": true
     },
-    "dates": [
-      {
-        "day": "Saturday",
-        "time": "10:00:00"
-      }
-    ],
-    "enabled": true
-  }
+    {
+        "id": 3,
+        "request_body": {
+            "username": "Shararam",
+            "avatar_url": "https://crispy-barnacle.github.io/res/images/shararam.png",
+            "content": "",
+            "embeds": [
+                {
+                    "title": "<:SovunjaFunny:857914464266223617> Царь Горы Шарарама начнётся через 5 минут! <:KarychFunny:883375695856795648>",
+                    "description": "https://www.shararam.ru/login/newgame",
+                    "fields": [],
+                    "footer": {
+                        "text": "",
+                        "icon_url": ""
+                    },
+                    "color": 10181046
+                }
+            ]
+        },
+        "dates": [
+            {
+                "day": "Monday",
+                "time": "14:55:00"
+            },
+            {
+                "day": "Tuesday",
+                "time": "14:55:00"
+            },
+            {
+                "day": "Wednesday",
+                "time": "14:55:00"
+            },
+            {
+                "day": "Thursday",
+                "time": "14:55:00"
+            },
+            {
+                "day": "Friday",
+                "time": "14:55:00"
+            },
+            {
+                "day": "Saturday",
+                "time": "14:55:00"
+            },
+            {
+                "day": "Sunday",
+                "time": "14:55:00"
+            }
+        ],
+        "enabled": true
+    },
+    {
+        "id": 4,
+        "request_body": {
+            "username": "Epic Games Store",
+            "avatar_url": "https://crispy-barnacle.github.io/res/images/egs_regular.png",
+            "content": "",
+            "embeds": [
+                {
+                    "title": "Hey! There is another free game available on Epic Games Store",
+                    "description": "https://www.epicgames.com/store/free-games <a:CoolDogeGif:880857203400138793>",
+                    "fields": [],
+                    "footer": {
+                        "text": "",
+                        "icon_url": ""
+                    },
+                    "color": 11342935
+                }
+            ]
+        },
+        "dates": [
+            {
+                "day": "Thursday",
+                "time": "18:00:00"
+            }
+        ],
+        "enabled": true
+    },
+    {
+        "id": 5,
+        "request_body": {
+            "username": "Steam",
+            "avatar_url": "https://crispy-barnacle.github.io/res/images/steam_regular.png",
+            "content": "",
+            "embeds": [
+                {
+                    "title": "Steam: Christmas (22 Dec - 5 Jan)",
+                    "description": "",
+                    "fields": [
+                        {
+                            "name": "Ежедневно получайте бесплатную карточку, просматривая список рекомендаций",
+                            "value": "https://store.steampowered.com/explore"
+                        },
+                        {
+                            "name": "Каждые два дня получайте бесплатный стикер",
+                            "value": "https://store.steampowered.com/points/shop"
+                        }
+                    ],
+                    "footer": {
+                        "text": "",
+                        "icon_url": ""
+                    },
+                    "color": 11027200
+                }
+            ]
+        },
+        "dates": [
+            {
+                "day": "Monday",
+                "time": "20:00:00"
+            },
+            {
+                "day": "Tuesday",
+                "time": "20:00:00"
+            },
+            {
+                "day": "Wednesday",
+                "time": "20:00:00"
+            },
+            {
+                "day": "Thursday",
+                "time": "20:00:00"
+            },
+            {
+                "day": "Friday",
+                "time": "20:00:00"
+            },
+            {
+                "day": "Saturday",
+                "time": "20:00:00"
+            },
+            {
+                "day": "Sunday",
+                "time": "20:00:00"
+            }
+        ],
+        "enabled": false
+    },
+    {
+        "id": 6,
+        "request_body": {
+            "username": "Peperomia Verticillata",
+            "avatar_url": "https://static.wixstatic.com/media/f29183_ac54ebe4959b4bc5a7be937fd0b9bc3e~mv2.jpg/v1/fill/w_1500,h_1177,al_c,q_85/f29183_ac54ebe4959b4bc5a7be937fd0b9bc3e~mv2.jpg",
+            "content": "",
+            "embeds": [
+                {
+                    "title": "Карибская пеперомия хочет пить",
+                    "description": "🌹 Пора поливать цветок! 🌊",
+                    "fields": [],
+                    "footer": {
+                        "text": "",
+                        "icon_url": ""
+                    },
+                    "color": 3066993
+                }
+            ]
+        },
+        "dates": [
+            {
+                "day": "Friday",
+                "time": "12:00:00"
+            }
+        ],
+        "enabled": true
+    }
 ]
