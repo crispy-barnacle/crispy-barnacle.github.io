@@ -265,5 +265,32 @@
             }
         ],
         "enabled": true
+    },
+    {
+        "id": 7,
+        "request_body": {
+            "username": "Pokémon GO",
+            "avatar_url": "",
+            "content": "",
+            "embeds": [
+                {
+                    "title": "Пора удалять мертвых душ в Покемонах",
+                    "description": "",
+                    "fields": [],
+                    "footer": {
+                        "text": "",
+                        "icon_url": ""
+                    },
+                    "color": 3066993
+                }
+            ]
+        },
+        "dates": [
+            {
+                "day": "Tuesday",
+                "time": "12:00:00"
+            }
+        ],
+        "enabled": true
     }
 ]
