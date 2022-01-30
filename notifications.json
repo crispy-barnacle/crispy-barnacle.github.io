@@ -252,7 +252,7 @@
                     "fields": [
                         {
                             "name": "Ежедневно получайте бесплатный стикер",
-                            "value": "https://store.steampowered.com/points/shop"
+                            "value": "steam://openurl/https://store.steampowered.com/points/shop"
                         }
                     ],
                     "footer": {
