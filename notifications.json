@@ -293,7 +293,7 @@
                 "time": "20:00:00"
             }
         ],
-        "enabled": true
+        "enabled": false
     },
     {
         "id": 7,
