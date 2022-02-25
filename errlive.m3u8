@@ -1,0 +1,12 @@
+Riigikogu otse HD pildis
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//riigikogu.babahhcdn.com/bb1027/riigikogu_ch1.stream_720p:RIIGIKOGU OTSE HD
+#DESCRIPTION RIIGIKOGU OTSE HD
+ETV HD
+#SERVICE 4097:0:1:33:7:20E9:EEEE0000:0:0:0:http%3a//wowzalive.err.ee/live/_definst_/smil3aetv/chunklist_w1494986001_b1544100_slest.m3u8:ETV HD
+#DESCRIPTION ETV HD
+ETV2 HD
+#SERVICE 4097:0:1:34:7:20E9:EEEE0000:0:0:0:http%3a//darkhelmet.err.ee/live/etv2h/index.m3u8?id=24697423095740:ETV2 HD
+#DESCRIPTION ETV2 HD
+ETV+HD
+#SERVICE 4097:0:1:22:6:20E9:EEEE0000:0:0:0:http%3a//darkhelmet.err.ee/live/etvplussh/index.m3u8?id=90735294515585:ETV+ HD
+#DESCRIPTION ETV+ HD
