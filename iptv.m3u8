@@ -5304,7 +5304,7 @@ http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/18099/index.m3u8
 #EXTGRP:спорт
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/18100/index.m3u8
 #EXTINF:0 tvg-rec="7",Первый HD
-#EXTGRP:HD
+#EXTGRP:избранное
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/204/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый канал HD 50
 #EXTGRP:HD
@@ -5550,7 +5550,7 @@ http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/201/index.m3u8
 #EXTGRP:HD
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/203/index.m3u8
 #EXTINF:0 tvg-rec="7",Россия HD
-#EXTGRP:HD
+#EXTGRP:избранное
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/205/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 HD 50
 #EXTGRP:HD
@@ -5580,10 +5580,10 @@ http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/213/index.m3u8
 #EXTGRP:HD
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/215/index.m3u8
 #EXTINF:0 tvg-rec="7",Nat Geo Wild HD
-#EXTGRP:HD
+#EXTGRP:избранное
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/216/index.m3u8
 #EXTINF:0 tvg-rec="7",Animal Planet HD
-#EXTGRP:HD
+#EXTGRP:избранное
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/218/index.m3u8
 #EXTINF:0 tvg-rec="7",Fox HD
 #EXTGRP:HD
@@ -5598,7 +5598,7 @@ http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/221/index.m3u8
 #EXTGRP:HD
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/222/index.m3u8
 #EXTINF:0 tvg-rec="7",Nickelodeon HD
-#EXTGRP:HD
+#EXTGRP:избранное
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/223/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Игра HD
 #EXTGRP:HD
@@ -5727,7 +5727,7 @@ http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/2007/index.m3u8
 #EXTGRP:HD
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/2009/index.m3u8
 #EXTINF:0 tvg-rec="7",Рен ТВ HD
-#EXTGRP:HD
+#EXTGRP:избранное
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/2024/index.m3u8
 #EXTINF:0 tvg-rec="7",C-Music HD
 #EXTGRP:HD
@@ -7014,7 +7014,7 @@ http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/9094/index.m3u8
 #EXTGRP:HD Orig
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/9015/index.m3u8
 #EXTINF:0 tvg-rec="3",НТВ HD orig
-#EXTGRP:HD Orig
+#EXTGRP:избранное
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/9028/index.m3u8
 #EXTINF:0 tvg-rec="3",Russia Today Doc HD orig
 #EXTGRP:HD Orig
@@ -7041,7 +7041,7 @@ http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/9072/index.m3u8
 #EXTGRP:HD Orig
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/9073/index.m3u8
 #EXTINF:0 tvg-rec="3",ТВЦ orig
-#EXTGRP:HD Orig
+#EXTGRP:избранное
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/9095/index.m3u8
 #EXTINF:0 tvg-rec="3",Пятый канал orig
 #EXTGRP:HD Orig
