@@ -9,10 +9,10 @@ http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/16075/index.m3u8
 #EXTGRP:новости
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/16077/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 +0 (Элиста)
-#EXTGRP:новости
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15447/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 +0 (Тамбов)
-#EXTGRP:новости
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15465/index.m3u8
 #EXTINF:0 tvg-rec="0",Инфоканал
 #EXTGRP:новости
@@ -168,115 +168,115 @@ http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15333/index.m3u8
 #EXTGRP:новости
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/6050/index.m3u8
 #EXTINF:0 tvg-rec="7",Россия 1
-#EXTGRP:новости
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/504/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 +0 (Алания)
-#EXTGRP:новости
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15403/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 +0 (Белгород)
-#EXTGRP:новости
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15408/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 +0 (Невинномысск)
-#EXTGRP:новости
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15324/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 +0 (Липецк)
-#EXTGRP:новости
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15313/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 +1 (Приволжье, Китеж)
-#EXTGRP:новости
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15284/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия-1 +2
-#EXTGRP:новости
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/6011/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 +2 (Уфа)
-#EXTGRP:новости
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15302/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 +3 (Омск)
-#EXTGRP:новости
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15377/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия-1 +4
-#EXTGRP:новости
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/6022/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 +4 (Абакан, Орион)
-#EXTGRP:новости
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15367/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 +4 (Алтай, Дианэт)
-#EXTGRP:новости
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15288/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 +4 (Иркутск, Dreamnet)
-#EXTGRP:новости
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15413/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 +4 (Орион)
-#EXTGRP:новости
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15415/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 +4 (Томск)
-#EXTGRP:новости
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15386/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 +5 (Братск, Орион)
-#EXTGRP:новости
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15360/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия-1 +6
-#EXTGRP:новости
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/6038/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 +7 (Владивосток)
-#EXTGRP:новости
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15334/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия-1 +8
-#EXTGRP:новости
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/6051/index.m3u8
 #EXTINF:0 tvg-rec="7",Россия-24
-#EXTGRP:новости
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/507/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 24 +0 (Алания)
-#EXTGRP:новости
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15404/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 24 +0 (Белгород)
-#EXTGRP:новости
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15412/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 24 +0 (Липецк)
-#EXTGRP:новости
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15405/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 24 +0 (Невинномысск)
-#EXTGRP:новости
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15329/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 24 +0 (Тамбов)
-#EXTGRP:новости
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15468/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 24 +0 (Элиста)
-#EXTGRP:новости
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15452/index.m3u8
 #EXTINF:0 tvg-rec="3",Россия-24 +2
-#EXTGRP:новости
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/6013/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 24 +2 (Пермь)
-#EXTGRP:новости
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15446/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 24 +2 (Уфа)
-#EXTGRP:новости
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15312/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 24 +3 (Омск)
-#EXTGRP:новости
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15378/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 24 +4 (Абакан, Орион)
-#EXTGRP:новости
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15368/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 24 +4 (Алтай, Дианэт)
-#EXTGRP:новости
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15292/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 24 +4 (Орион)
-#EXTGRP:новости
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15416/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 24 +4 (Томск)
-#EXTGRP:новости
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15390/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 24 +5 (Братск, Орион)
-#EXTGRP:новости
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15361/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 24 +5 (Иркутск, Орион)
-#EXTGRP:новости
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15358/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 24 +7 (Владивосток)
-#EXTGRP:новости
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15339/index.m3u8
 #EXTINF:0 tvg-rec="0",100 % NEWS
 #EXTGRP:новости
@@ -288,7 +288,7 @@ http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/18038/index.m3u8
 #EXTGRP:новости
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/18039/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия РТР
-#EXTGRP:новости
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/18042/index.m3u8
 #EXTINF:0 tvg-rec="0",VF New Year
 #EXTGRP:кино
