@@ -4605,7 +4605,7 @@ http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/531/index.m3u8
 #EXTGRP:спорт
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/535/index.m3u8
 #EXTINF:0 tvg-rec="7",Eurosport 1
-#EXTGRP:_Eurosport
+#EXTGRP:спорт
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/141/index.m3u8
 #EXTINF:0 tvg-rec="7",Extreme Sports
 #EXTGRP:спорт
@@ -6771,10 +6771,10 @@ http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/5073/index.m3u8
 #EXTGRP:HD Orig
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/5074/index.m3u8
 #EXTINF:0 tvg-rec="3",Eurosport 1 HD orig
-#EXTGRP:_Eurosport
+#EXTGRP:спорт
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/5075/index.m3u8
 #EXTINF:0 tvg-rec="3",Eurosport 2 North-East HD orig
-#EXTGRP:_Eurosport
+#EXTGRP:спорт
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/5076/index.m3u8
 #EXTINF:0 tvg-rec="3",Xsport HD orig
 #EXTGRP:HD Orig
@@ -7482,7 +7482,7 @@ http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/9245/index.m3u8
 #EXTGRP:HD Orig
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/9246/index.m3u8
 #EXTINF:0 tvg-rec="3",Eurosport 1 orig
-#EXTGRP:_Eurosport
+#EXTGRP:спорт
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/9247/index.m3u8
 #EXTINF:0 tvg-rec="3",Моторспорт ТВ orig
 #EXTGRP:HD Orig
@@ -7785,7 +7785,7 @@ http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/4003/index.m3u8
 #EXTGRP:4K
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15145/index.m3u8
 #EXTINF:0 tvg-rec="3",Eurosport 4K
-#EXTGRP:_Eurosport
+#EXTGRP:спорт
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/4004/index.m3u8
 #EXTINF:0 tvg-rec="3",FTV UHD
 #EXTGRP:4K
