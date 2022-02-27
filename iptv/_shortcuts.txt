@@ -1,4 +1,4 @@
-crispy-barnacle.github.io/iptv/errlive.m3u8		https://bit.do/ghcbiptverr
+crispy-barnacle.github.io/iptv/errlive.m3u8		http://bit.do/ghcbiptverr
 crispy-barnacle.github.io/iptv/iptv.m3u8		http://bit.do/ghcbiptva
 crispy-barnacle.github.io/iptv/iptv_b.m3u8		http://bit.do/ghcbiptvb
 crispy-barnacle.github.io/iptv/iptv_fav.m3u8		http://bit.do/ghcbiptvfava
