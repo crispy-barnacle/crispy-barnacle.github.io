@@ -3812,15 +3812,6 @@ http://30822575.russtv.net/iptv/YS896AMA7E2K8P/14129/index.m3u8
 #EXTINF:0 tvg-rec="0",Duo6 HD EE
 #EXTGRP:Dругие
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/14130/index.m3u8
-#EXTINF:0 tvg-rec="0",ETV2 HD EE
-#EXTGRP:избранное
-http://30822575.russtv.net/iptv/YS896AMA7E2K8P/14131/index.m3u8
-#EXTINF:0 tvg-rec="0",ETV HD EE
-#EXTGRP:избранное
-http://30822575.russtv.net/iptv/YS896AMA7E2K8P/14132/index.m3u8
-#EXTINF:0 tvg-rec="0",ETV+ HD EE
-#EXTGRP:избранное
-http://30822575.russtv.net/iptv/YS896AMA7E2K8P/14133/index.m3u8
 #EXTINF:0 tvg-rec="0",Russia today doc
 #EXTGRP:Dругие
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/14157/index.m3u8
@@ -5207,9 +5198,6 @@ http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15097/index.m3u8
 #EXTINF:0 tvg-rec="0",Живи Активно HD
 #EXTGRP:Cпорт
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15143/index.m3u8
-#EXTINF:0 tvg-rec="0",Eurosport_Gold_HD
-#EXTGRP:избранное
-http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15167/index.m3u8
 #EXTINF:0 tvg-rec="0",Eurosport HD DE
 #EXTGRP:Cпорт
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15179/index.m3u8
@@ -5294,18 +5282,12 @@ http://30822575.russtv.net/iptv/YS896AMA7E2K8P/18034/index.m3u8
 #EXTINF:0 tvg-rec="0",KHL HD
 #EXTGRP:Cпорт
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/18035/index.m3u8
-#EXTINF:0 tvg-rec="0",Eurosport HD CEE
-#EXTGRP:избранное
-http://30822575.russtv.net/iptv/YS896AMA7E2K8P/18098/index.m3u8
 #EXTINF:0 tvg-rec="0",Eurosport 2 HD CEE
 #EXTGRP:Cпорт
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/18099/index.m3u8
 #EXTINF:0 tvg-rec="0",Eurosport 2 HD CEE orig
 #EXTGRP:Cпорт
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/18100/index.m3u8
-#EXTINF:0 tvg-rec="7",Первый HD
-#EXTGRP:избранное
-http://30822575.russtv.net/iptv/YS896AMA7E2K8P/204/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый канал HD 50
 #EXTGRP:Первый канал
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15131/index.m3u8
@@ -5549,9 +5531,6 @@ http://30822575.russtv.net/iptv/YS896AMA7E2K8P/201/index.m3u8
 #EXTINF:0 tvg-rec="7",Viasat Nature/History HD
 #EXTGRP:HD
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/203/index.m3u8
-#EXTINF:0 tvg-rec="7",Россия HD
-#EXTGRP:избранное
-http://30822575.russtv.net/iptv/YS896AMA7E2K8P/205/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 HD 50
 #EXTGRP:Россия 1
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15133/index.m3u8
@@ -5579,12 +5558,6 @@ http://30822575.russtv.net/iptv/YS896AMA7E2K8P/213/index.m3u8
 #EXTINF:0 tvg-rec="7",Телеканал КХЛ HD
 #EXTGRP:HD
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/215/index.m3u8
-#EXTINF:0 tvg-rec="7",Nat Geo Wild HD
-#EXTGRP:избранное
-http://30822575.russtv.net/iptv/YS896AMA7E2K8P/216/index.m3u8
-#EXTINF:0 tvg-rec="7",Animal Planet HD
-#EXTGRP:избранное
-http://30822575.russtv.net/iptv/YS896AMA7E2K8P/218/index.m3u8
 #EXTINF:0 tvg-rec="7",Fox HD
 #EXTGRP:HD
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/219/index.m3u8
@@ -5597,9 +5570,6 @@ http://30822575.russtv.net/iptv/YS896AMA7E2K8P/221/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Футбол 1 HD
 #EXTGRP:МАТЧ!
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/222/index.m3u8
-#EXTINF:0 tvg-rec="7",Nickelodeon HD
-#EXTGRP:избранное
-http://30822575.russtv.net/iptv/YS896AMA7E2K8P/223/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Игра HD
 #EXTGRP:МАТЧ!
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/225/index.m3u8
@@ -5609,9 +5579,6 @@ http://30822575.russtv.net/iptv/YS896AMA7E2K8P/226/index.m3u8
 #EXTINF:0 tvg-rec="7",Discovery Channel HD
 #EXTGRP:HD
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/227/index.m3u8
-#EXTINF:0 tvg-rec="7",Eurosport 1 HD
-#EXTGRP:избранное
-http://30822575.russtv.net/iptv/YS896AMA7E2K8P/228/index.m3u8
 #EXTINF:0 tvg-rec="7",Amedia Premium HD
 #EXTGRP:HD
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/229/index.m3u8
@@ -5627,9 +5594,6 @@ http://30822575.russtv.net/iptv/YS896AMA7E2K8P/232/index.m3u8
 #EXTINF:0 tvg-rec="7",Travel Channel HD
 #EXTGRP:HD
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/233/index.m3u8
-#EXTINF:0 tvg-rec="7",Eurosport 2 North-East HD
-#EXTGRP:избранное
-http://30822575.russtv.net/iptv/YS896AMA7E2K8P/234/index.m3u8
 #EXTINF:0 tvg-rec="7",Остросюжетное HD
 #EXTGRP:HD
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/904/index.m3u8
@@ -5726,9 +5690,6 @@ http://30822575.russtv.net/iptv/YS896AMA7E2K8P/2007/index.m3u8
 #EXTINF:0 tvg-rec="7",Большая Азия HD
 #EXTGRP:HD
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/2009/index.m3u8
-#EXTINF:0 tvg-rec="7",Рен ТВ HD
-#EXTGRP:избранное
-http://30822575.russtv.net/iptv/YS896AMA7E2K8P/2024/index.m3u8
 #EXTINF:0 tvg-rec="7",C-Music HD
 #EXTGRP:HD
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/2028/index.m3u8
@@ -7013,9 +6974,6 @@ http://30822575.russtv.net/iptv/YS896AMA7E2K8P/9094/index.m3u8
 #EXTINF:0 tvg-rec="3",Nickelodeon HD orig
 #EXTGRP:HD Orig
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/9015/index.m3u8
-#EXTINF:0 tvg-rec="3",НТВ HD orig
-#EXTGRP:избранное
-http://30822575.russtv.net/iptv/YS896AMA7E2K8P/9028/index.m3u8
 #EXTINF:0 tvg-rec="3",Russia Today Doc HD orig
 #EXTGRP:HD Orig
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/9031/index.m3u8
@@ -7040,9 +6998,6 @@ http://30822575.russtv.net/iptv/YS896AMA7E2K8P/9072/index.m3u8
 #EXTINF:0 tvg-rec="3",Еспресо ТВ HD UA orig
 #EXTGRP:HD Orig
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/9073/index.m3u8
-#EXTINF:0 tvg-rec="3",ТВЦ orig
-#EXTGRP:избранное
-http://30822575.russtv.net/iptv/YS896AMA7E2K8P/9095/index.m3u8
 #EXTINF:0 tvg-rec="3",Пятый канал orig
 #EXTGRP:HD Orig
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/9096/index.m3u8
@@ -7841,3 +7796,54 @@ http://30822575.russtv.net/iptv/YS896AMA7E2K8P/17023/index.m3u8
 #EXTINF:0 tvg-rec="0",SKY HIGH MIX 4K
 #EXTGRP:4K
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/17025/index.m3u8
+#EXTINF:0 tvg-rec="0",ETV2 HD EE
+#EXTGRP:избранное
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/14131/index.m3u8
+#EXTINF:0 tvg-rec="0",ETV HD EE
+#EXTGRP:избранное
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/14132/index.m3u8
+#EXTINF:0 tvg-rec="0",ETV+ HD EE
+#EXTGRP:избранное
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/14133/index.m3u8
+#EXTINF:0 tvg-rec="3",ТВЦ orig
+#EXTGRP:избранное
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/9095/index.m3u8
+#EXTINF:0 tvg-rec="0",Eurosport_Gold_HD
+#EXTGRP:избранное
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15167/index.m3u8
+#EXTINF:0 tvg-rec="0",Eurosport HD CEE
+#EXTGRP:избранное
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/18098/index.m3u8
+#EXTINF:0 tvg-rec="7",Eurosport 1 HD
+#EXTGRP:избранное
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/228/index.m3u8
+#EXTINF:0 tvg-rec="7",Eurosport 2 North-East HD
+#EXTGRP:избранное
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/234/index.m3u8
+#EXTINF:0 tvg-rec="7",Первый HD
+#EXTGRP:избранное
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/204/index.m3u8
+#EXTINF:0 tvg-rec="7",Россия HD
+#EXTGRP:избранное
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/205/index.m3u8
+#EXTINF:0 tvg-rec="7",Nat Geo Wild HD
+#EXTGRP:избранное
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/216/index.m3u8
+#EXTINF:0 tvg-rec="3",Discovery Science HD
+#EXTGRP:избранное
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/6001/index.m3u8
+#EXTINF:0 tvg-rec="7",Discovery Channel HD
+#EXTGRP:избранное
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/227/index.m3u8
+#EXTINF:0 tvg-rec="7",Animal Planet HD
+#EXTGRP:избранное
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/218/index.m3u8
+#EXTINF:0 tvg-rec="7",Nickelodeon HD
+#EXTGRP:избранное
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/223/index.m3u8
+#EXTINF:0 tvg-rec="7",Рен ТВ HD
+#EXTGRP:избранное
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/2024/index.m3u8
+#EXTINF:0 tvg-rec="3",НТВ HD orig
+#EXTGRP:избранное
+http://30822575.russtv.net/iptv/YS896AMA7E2K8P/9028/index.m3u8
