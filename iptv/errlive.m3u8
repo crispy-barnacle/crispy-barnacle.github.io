@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:0 tvg-country="EE" tvg-logo="https://static.iptv-epg.com/ee/ETV.ee.png" group-title="Undefined",ETV EE
-https://errstreams4.cdn.eurovisioncdn.net/live/etv-kval2/index.m3u8?checkedby:iptvcat.net
+https://sb.err.ee/live/etv.m3u8
 #EXTINF:0 tvg-country="EE" tvg-logo="https://static.iptv-epg.com/ee/ETV2.ee.png" group-title="Undefined",ETV+ EE
-https://errstreams4.cdn.eurovisioncdn.net/live/etvpluss-kval2/index.m3u8?checkedby:iptvcat.net
+https://sb.err.ee/live/etvpluss.m3u8
 #EXTINF:0 tvg-country="EE" tvg-logo="https://static.iptv-epg.com/ee/ETVPlus.ee.png" group-title="Undefined",ETV2 EE
-https://errstreams4.cdn.eurovisioncdn.net/live/etv2-kval2/index.m3u8?checkedby:iptvcat.net
+https://sb.err.ee/live/etv2.m3u8
 #EXTINF:0 tvg-country="EE" tvg-logo="https://i.imgur.com/xuySaSN.png" group-title="Undefined",Riigikogu
 https://riigikogu.babahhcdn.com/bb1027/smil:riigikogu_ch1.smil/playlist.m3u8?checkedby:iptvcat.net
