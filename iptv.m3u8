@@ -9,10 +9,10 @@ http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/16075/index.m3u8
 #EXTGRP:Hовости
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/16077/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 +0 (Элиста)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15447/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 +0 (Тамбов)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15465/index.m3u8
 #EXTINF:0 tvg-rec="0",Инфоканал
 #EXTGRP:Hовости
@@ -36,7 +36,7 @@ http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/545/index.m3u8
 #EXTGRP:Hовости
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/712/index.m3u8
 #EXTINF:0 tvg-rec="3",НТВ (+2)
-#EXTGRP:Hовости
+#EXTGRP:НТВ
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/713/index.m3u8
 #EXTINF:0 tvg-rec="7",Санкт-Петербург
 #EXTGRP:Hовости
@@ -117,166 +117,166 @@ http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/7254/index.m3u8
 #EXTGRP:Hовости
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/7297/index.m3u8
 #EXTINF:0 tvg-rec="7",Первый канал
-#EXTGRP:Hовости
+#EXTGRP:Первый канал
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/127/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый канал +0 (Белгород)
-#EXTGRP:Hовости
+#EXTGRP:Первый канал
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15407/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый канал +0 (Липецк)
-#EXTGRP:Hовости
+#EXTGRP:Первый канал
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15375/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый канал +0 (Невинномысск)
-#EXTGRP:Hовости
+#EXTGRP:Первый канал
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15323/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый канал +0 (Тамбов)
-#EXTGRP:Hовости
+#EXTGRP:Первый канал
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15464/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый канал +0 (Элиста)
-#EXTGRP:Hовости
+#EXTGRP:Первый канал
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15443/index.m3u8
 #EXTINF:0 tvg-rec="3",Первый канал (+2)
-#EXTGRP:Hовости
+#EXTGRP:Первый канал
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/714/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый канал +2 (Белорецк)
-#EXTGRP:Hовости
+#EXTGRP:Первый канал
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15486/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый канал +2 (Нефтекамск)
-#EXTGRP:Hовости
+#EXTGRP:Первый канал
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15481/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый канал +2 (Уфа, ЗТ)
-#EXTGRP:Hовости
+#EXTGRP:Первый канал
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15301/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый канал +3 (Омск)
-#EXTGRP:Hовости
+#EXTGRP:Первый канал
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15431/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый канал +4
-#EXTGRP:Hовости
+#EXTGRP:Первый канал
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/6021/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый канал +4 (Алтай, Дианэт)
-#EXTGRP:Hовости
+#EXTGRP:Первый канал
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15287/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый канал +4 (Томск)
-#EXTGRP:Hовости
+#EXTGRP:Первый канал
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15385/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый канал +6
-#EXTGRP:Hовости
+#EXTGRP:Первый канал
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/6037/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый канал +7 (Владивосток)
-#EXTGRP:Hовости
+#EXTGRP:Первый канал
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15333/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый канал +8
-#EXTGRP:Hовости
+#EXTGRP:Первый канал
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/6050/index.m3u8
 #EXTINF:0 tvg-rec="7",Россия 1
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/504/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 +0 (Алания)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15403/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 +0 (Белгород)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15408/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 +0 (Невинномысск)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15324/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 +0 (Липецк)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15313/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 +1 (Приволжье, Китеж)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15284/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия-1 +2
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/6011/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 +2 (Уфа)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15302/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 +3 (Омск)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15377/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия-1 +4
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/6022/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 +4 (Абакан, Орион)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15367/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 +4 (Алтай, Дианэт)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15288/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 +4 (Иркутск, Dreamnet)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15413/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 +4 (Орион)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15415/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 +4 (Томск)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15386/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 +5 (Братск, Орион)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15360/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия-1 +6
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/6038/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 +7 (Владивосток)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15334/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия-1 +8
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/6051/index.m3u8
 #EXTINF:0 tvg-rec="7",Россия-24
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/507/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 24 +0 (Алания)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15404/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 24 +0 (Белгород)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15412/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 24 +0 (Липецк)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15405/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 24 +0 (Невинномысск)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15329/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 24 +0 (Тамбов)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15468/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 24 +0 (Элиста)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15452/index.m3u8
 #EXTINF:0 tvg-rec="3",Россия-24 +2
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/6013/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 24 +2 (Пермь)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15446/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 24 +2 (Уфа)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15312/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 24 +3 (Омск)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15378/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 24 +4 (Абакан, Орион)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15368/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 24 +4 (Алтай, Дианэт)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15292/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 24 +4 (Орион)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15416/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 24 +4 (Томск)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15390/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 24 +5 (Братск, Орион)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15361/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 24 +5 (Иркутск, Орион)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15358/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 24 +7 (Владивосток)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15339/index.m3u8
 #EXTINF:0 tvg-rec="0",100 % NEWS
 #EXTGRP:Hовости
@@ -288,7 +288,7 @@ http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/18038/index.m3u8
 #EXTGRP:Hовости
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/18039/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия РТР
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/18042/index.m3u8
 #EXTINF:0 tvg-rec="0",VF New Year
 #EXTGRP:Kино
@@ -405,13 +405,13 @@ http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/733/index.m3u8
 #EXTGRP:Kино
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/734/index.m3u8
 #EXTINF:0 tvg-rec="7",НТВ‑ХИТ
-#EXTGRP:Kино
+#EXTGRP:НТВ
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/741/index.m3u8
 #EXTINF:0 tvg-rec="0",FAN HD
 #EXTGRP:Kино
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/16021/index.m3u8
 #EXTINF:0 tvg-rec="7",НТВ Сериал
-#EXTGRP:Kино
+#EXTGRP:НТВ
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/744/index.m3u8
 #EXTINF:0 tvg-rec="7",НСТ
 #EXTGRP:Kино
@@ -1704,10 +1704,10 @@ http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/14138/index.m3u8
 #EXTGRP:Mузыка
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/14139/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый музыкальный
-#EXTGRP:Mузыка
+#EXTGRP:Музыка
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/14143/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый музыкальный (Бел)
-#EXTGRP:Mузыка
+#EXTGRP:Музыка
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/14145/index.m3u8
 #EXTINF:0 tvg-rec="0",Fresh HD
 #EXTGRP:Mузыка
@@ -2481,7 +2481,7 @@ http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/157/index.m3u8
 #EXTGRP:Pазвлекательные
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/717/index.m3u8
 #EXTINF:0 tvg-rec="7",НТВ Стиль
-#EXTGRP:Pазвлекательные
+#EXTGRP:НТВ
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/745/index.m3u8
 #EXTINF:0 tvg-rec="3",Fashion One
 #EXTGRP:Pазвлекательные
@@ -2610,13 +2610,13 @@ http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/6034/index.m3u8
 #EXTGRP:Dругие
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/6048/index.m3u8
 #EXTINF:0 tvg-rec="0",НТВ +4
-#EXTGRP:Dругие
+#EXTGRP:НТВ
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/6024/index.m3u8
 #EXTINF:0 tvg-rec="0",НТВ +7
-#EXTGRP:Dругие
+#EXTGRP:НТВ
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/6039/index.m3u8
 #EXTINF:0 tvg-rec="0",НТВ +8
-#EXTGRP:Dругие
+#EXTGRP:НТВ
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/6053/index.m3u8
 #EXTINF:0 tvg-rec="0",ОТР +2
 #EXTGRP:Dругие
@@ -2697,7 +2697,7 @@ http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/6142/index.m3u8
 #EXTGRP:Dругие
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/6163/index.m3u8
 #EXTINF:0 tvg-rec="7",НТВ
-#EXTGRP:Dругие
+#EXTGRP:НТВ
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/501/index.m3u8
 #EXTINF:0 tvg-rec="7",ТНТ
 #EXTGRP:Dругие
@@ -2763,7 +2763,7 @@ http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/738/index.m3u8
 #EXTGRP:Dругие
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/739/index.m3u8
 #EXTINF:0 tvg-rec="7",НТВ Право
-#EXTGRP:Dругие
+#EXTGRP:НТВ
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/743/index.m3u8
 #EXTINF:0 tvg-rec="3",РЕН ТВ (+2)
 #EXTGRP:Dругие
@@ -3981,7 +3981,7 @@ http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15281/index.m3u8
 #EXTGRP:Dругие
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15282/index.m3u8
 #EXTINF:0 tvg-rec="0",ННТВ +0 (Китеж)
-#EXTGRP:Dругие
+#EXTGRP:НТВ
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15283/index.m3u8
 #EXTINF:0 tvg-rec="0",Ростов Папа
 #EXTGRP:Dругие
@@ -3990,7 +3990,7 @@ http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15285/index.m3u8
 #EXTGRP:Dругие
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15286/index.m3u8
 #EXTINF:0 tvg-rec="0",НТВ +4 (Алтай, Дианэт)
-#EXTGRP:Dругие
+#EXTGRP:НТВ
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15290/index.m3u8
 #EXTINF:0 tvg-rec="0",5 канал +4 (Алтай, Дианэт)
 #EXTGRP:Dругие
@@ -4026,7 +4026,7 @@ http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15303/index.m3u8
 #EXTGRP:Dругие
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15304/index.m3u8
 #EXTINF:0 tvg-rec="0",НТВ +2 (Уфа)
-#EXTGRP:Dругие
+#EXTGRP:НТВ
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15305/index.m3u8
 #EXTINF:0 tvg-rec="0",Звезда +2 (Уфа)
 #EXTGRP:Dругие
@@ -4038,7 +4038,7 @@ http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15308/index.m3u8
 #EXTGRP:Dругие
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15309/index.m3u8
 #EXTINF:0 tvg-rec="0",НТВ +0 (Липецк)
-#EXTGRP:Dругие
+#EXTGRP:НТВ
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15315/index.m3u8
 #EXTINF:0 tvg-rec="0",5 Канал +2 (Уфа)
 #EXTGRP:Dругие
@@ -4059,7 +4059,7 @@ http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15320/index.m3u8
 #EXTGRP:Dругие
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15321/index.m3u8
 #EXTINF:0 tvg-rec="0",НТВ +0 (Невинномысск)
-#EXTGRP:Dругие
+#EXTGRP:НТВ
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15322/index.m3u8
 #EXTINF:0 tvg-rec="0",Пятница! +0 (Невинномысск)
 #EXTGRP:Dругие
@@ -4083,7 +4083,7 @@ http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15331/index.m3u8
 #EXTGRP:Dругие
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15332/index.m3u8
 #EXTINF:0 tvg-rec="0",НТВ +7 (Владивосток)
-#EXTGRP:Dругие
+#EXTGRP:НТВ
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15336/index.m3u8
 #EXTINF:0 tvg-rec="0",5 канал +7 (Владивосток)
 #EXTGRP:Dругие
@@ -4197,10 +4197,10 @@ http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15382/index.m3u8
 #EXTGRP:Dругие
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15383/index.m3u8
 #EXTINF:0 tvg-rec="0",НТВ +2 (Нефтекамск)
-#EXTGRP:Dругие
+#EXTGRP:НТВ
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15384/index.m3u8
 #EXTINF:0 tvg-rec="0",НТВ +4 (Томск)
-#EXTGRP:Dругие
+#EXTGRP:НТВ
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15388/index.m3u8
 #EXTINF:0 tvg-rec="0",5 Канал +4 (Томск)
 #EXTGRP:Dругие
@@ -4236,7 +4236,7 @@ http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15402/index.m3u8
 #EXTGRP:Dругие
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15406/index.m3u8
 #EXTINF:0 tvg-rec="0",НТВ +0 (Белгород)
-#EXTGRP:Dругие
+#EXTGRP:НТВ
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15410/index.m3u8
 #EXTINF:0 tvg-rec="0",5 Канал +0 (Белгород)
 #EXTGRP:Dругие
@@ -4287,7 +4287,7 @@ http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15429/index.m3u8
 #EXTGRP:Dругие
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15430/index.m3u8
 #EXTINF:0 tvg-rec="0",НТВ +3 (Омск)
-#EXTGRP:Dругие
+#EXTGRP:НТВ
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15433/index.m3u8
 #EXTINF:0 tvg-rec="0",5 канал +3 (Омск)
 #EXTGRP:Dругие
@@ -4314,7 +4314,7 @@ http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15444/index.m3u8
 #EXTGRP:Dругие
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15445/index.m3u8
 #EXTINF:0 tvg-rec="0",НТВ +0 (Элиста)
-#EXTGRP:Dругие
+#EXTGRP:НТВ
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15449/index.m3u8
 #EXTINF:0 tvg-rec="0",5 Канал +0 (Элиста)
 #EXTGRP:Dругие
@@ -4350,7 +4350,7 @@ http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15462/index.m3u8
 #EXTGRP:Dругие
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15463/index.m3u8
 #EXTINF:0 tvg-rec="0",НТВ +0 (Тамбов)
-#EXTGRP:Dругие
+#EXTGRP:НТВ
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15466/index.m3u8
 #EXTINF:0 tvg-rec="0",5 канал +0 (Тамбов)
 #EXTGRP:Dругие
@@ -5307,10 +5307,10 @@ http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/18100/index.m3u8
 #EXTGRP:избранное
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/204/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый канал HD 50
-#EXTGRP:HD
+#EXTGRP:Первый канал
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15131/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый канал HD +4
-#EXTGRP:HD
+#EXTGRP:Первый канал
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15117/index.m3u8
 #EXTINF:0 tvg-rec="3",Amedia Hit HD
 #EXTGRP:HD
@@ -5553,7 +5553,7 @@ http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/203/index.m3u8
 #EXTGRP:избранное
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/205/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 HD 50
-#EXTGRP:HD
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/15133/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Футбол 3 HD
 #EXTGRP:МАТЧ!
@@ -5574,7 +5574,7 @@ http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/211/index.m3u8
 #EXTGRP:МАТЧ!
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/212/index.m3u8
 #EXTINF:0 tvg-rec="7",НТВ HD
-#EXTGRP:HD
+#EXTGRP:НТВ
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/213/index.m3u8
 #EXTINF:0 tvg-rec="7",Телеканал КХЛ HD
 #EXTGRP:HD
@@ -6672,10 +6672,10 @@ http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/11108/index.m3u8
 #EXTGRP:USA
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/11109/index.m3u8
 #EXTINF:0 tvg-rec="7",Первый FHD
-#EXTGRP:HD Orig
+#EXTGRP:Первый канал
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/2402/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый HD Orig
-#EXTGRP:HD Orig
+#EXTGRP:Первый канал
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/7253/index.m3u8
 #EXTINF:0 tvg-rec="3",Canal+ Sport FHD PL
 #EXTGRP:HD Orig
@@ -7188,10 +7188,10 @@ http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/9144/index.m3u8
 #EXTGRP:HD Orig
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/9145/index.m3u8
 #EXTINF:0 tvg-rec="3",НТВ-ХИТ orig
-#EXTGRP:HD Orig
+#EXTGRP:НТВ
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/9146/index.m3u8
 #EXTINF:0 tvg-rec="3",НТВ Сериал orig
-#EXTGRP:HD Orig
+#EXTGRP:НТВ
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/9147/index.m3u8
 #EXTINF:0 tvg-rec="3",НСТ orig
 #EXTGRP:HD Orig
@@ -7347,13 +7347,13 @@ http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/9199/index.m3u8
 #EXTGRP:HD Orig
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/9200/index.m3u8
 #EXTINF:0 tvg-rec="3",Первый канал orig
-#EXTGRP:HD Orig
+#EXTGRP:Первый канал
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/9201/index.m3u8
 #EXTINF:0 tvg-rec="3",Россия 1 orig
-#EXTGRP:HD Orig
+#EXTGRP:Россия 1
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/9202/index.m3u8
 #EXTINF:0 tvg-rec="3",НТВ orig
-#EXTGRP:HD Orig
+#EXTGRP:НТВ
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/9203/index.m3u8
 #EXTINF:0 tvg-rec="3",ТНТ orig
 #EXTGRP:HD Orig
@@ -7710,10 +7710,10 @@ http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/9325/index.m3u8
 #EXTGRP:HD Orig
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/9326/index.m3u8
 #EXTINF:0 tvg-rec="3",НТВ Право orig
-#EXTGRP:HD Orig
+#EXTGRP:НТВ
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/9327/index.m3u8
 #EXTINF:0 tvg-rec="3",НТВ Стиль orig
-#EXTGRP:HD Orig
+#EXTGRP:НТВ
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/9328/index.m3u8
 #EXTINF:0 tvg-rec="3",Кто Куда orig
 #EXTGRP:HD Orig
