@@ -33,10 +33,10 @@ http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/7233/index.m3u8
 #EXTGRP:избранное
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/216/index.m3u8
 #EXTINF:0 tvg-rec="3",Discovery Science HD
-#EXTGRP:HD
+#EXTGRP:избранное
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/6001/index.m3u8
 #EXTINF:0 tvg-rec="7",Discovery Channel HD
-#EXTGRP:HD
+#EXTGRP:избранное
 http://obj7f5kv.otttv.pw/iptv/DSVW7BB5ER6HGZ/227/index.m3u8
 #EXTINF:0 tvg-rec="7",Animal Planet HD
 #EXTGRP:избранное
