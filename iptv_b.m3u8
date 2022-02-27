@@ -9,10 +9,10 @@ http://30822575.russtv.net/iptv/YS896AMA7E2K8P/16075/index.m3u8
 #EXTGRP:Hовости
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/16077/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 +0 (Элиста)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15447/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 +0 (Тамбов)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15465/index.m3u8
 #EXTINF:0 tvg-rec="0",Инфоканал
 #EXTGRP:Hовости
@@ -36,7 +36,7 @@ http://30822575.russtv.net/iptv/YS896AMA7E2K8P/545/index.m3u8
 #EXTGRP:Hовости
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/712/index.m3u8
 #EXTINF:0 tvg-rec="3",НТВ (+2)
-#EXTGRP:Hовости
+#EXTGRP:НТВ
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/713/index.m3u8
 #EXTINF:0 tvg-rec="7",Санкт-Петербург
 #EXTGRP:Hовости
@@ -117,166 +117,166 @@ http://30822575.russtv.net/iptv/YS896AMA7E2K8P/7254/index.m3u8
 #EXTGRP:Hовости
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/7297/index.m3u8
 #EXTINF:0 tvg-rec="7",Первый канал
-#EXTGRP:Hовости
+#EXTGRP:Первый канал
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/127/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый канал +0 (Белгород)
-#EXTGRP:Hовости
+#EXTGRP:Первый канал
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15407/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый канал +0 (Липецк)
-#EXTGRP:Hовости
+#EXTGRP:Первый канал
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15375/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый канал +0 (Невинномысск)
-#EXTGRP:Hовости
+#EXTGRP:Первый канал
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15323/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый канал +0 (Тамбов)
-#EXTGRP:Hовости
+#EXTGRP:Первый канал
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15464/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый канал +0 (Элиста)
-#EXTGRP:Hовости
+#EXTGRP:Первый канал
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15443/index.m3u8
 #EXTINF:0 tvg-rec="3",Первый канал (+2)
-#EXTGRP:Hовости
+#EXTGRP:Первый канал
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/714/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый канал +2 (Белорецк)
-#EXTGRP:Hовости
+#EXTGRP:Первый канал
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15486/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый канал +2 (Нефтекамск)
-#EXTGRP:Hовости
+#EXTGRP:Первый канал
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15481/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый канал +2 (Уфа, ЗТ)
-#EXTGRP:Hовости
+#EXTGRP:Первый канал
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15301/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый канал +3 (Омск)
-#EXTGRP:Hовости
+#EXTGRP:Первый канал
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15431/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый канал +4
-#EXTGRP:Hовости
+#EXTGRP:Первый канал
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/6021/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый канал +4 (Алтай, Дианэт)
-#EXTGRP:Hовости
+#EXTGRP:Первый канал
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15287/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый канал +4 (Томск)
-#EXTGRP:Hовости
+#EXTGRP:Первый канал
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15385/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый канал +6
-#EXTGRP:Hовости
+#EXTGRP:Первый канал
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/6037/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый канал +7 (Владивосток)
-#EXTGRP:Hовости
+#EXTGRP:Первый канал
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15333/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый канал +8
-#EXTGRP:Hовости
+#EXTGRP:Первый канал
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/6050/index.m3u8
 #EXTINF:0 tvg-rec="7",Россия 1
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/504/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 +0 (Алания)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15403/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 +0 (Белгород)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15408/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 +0 (Невинномысск)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15324/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 +0 (Липецк)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15313/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 +1 (Приволжье, Китеж)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15284/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия-1 +2
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/6011/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 +2 (Уфа)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15302/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 +3 (Омск)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15377/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия-1 +4
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/6022/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 +4 (Абакан, Орион)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15367/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 +4 (Алтай, Дианэт)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15288/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 +4 (Иркутск, Dreamnet)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15413/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 +4 (Орион)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15415/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 +4 (Томск)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15386/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 +5 (Братск, Орион)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15360/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия-1 +6
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/6038/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 +7 (Владивосток)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15334/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия-1 +8
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/6051/index.m3u8
 #EXTINF:0 tvg-rec="7",Россия-24
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/507/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 24 +0 (Алания)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15404/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 24 +0 (Белгород)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15412/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 24 +0 (Липецк)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15405/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 24 +0 (Невинномысск)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15329/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 24 +0 (Тамбов)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15468/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 24 +0 (Элиста)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15452/index.m3u8
 #EXTINF:0 tvg-rec="3",Россия-24 +2
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/6013/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 24 +2 (Пермь)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15446/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 24 +2 (Уфа)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15312/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 24 +3 (Омск)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15378/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 24 +4 (Абакан, Орион)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15368/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 24 +4 (Алтай, Дианэт)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15292/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 24 +4 (Орион)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15416/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 24 +4 (Томск)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15390/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 24 +5 (Братск, Орион)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15361/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 24 +5 (Иркутск, Орион)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15358/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 24 +7 (Владивосток)
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15339/index.m3u8
 #EXTINF:0 tvg-rec="0",100 % NEWS
 #EXTGRP:Hовости
@@ -288,7 +288,7 @@ http://30822575.russtv.net/iptv/YS896AMA7E2K8P/18038/index.m3u8
 #EXTGRP:Hовости
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/18039/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия РТР
-#EXTGRP:Pоссия 1
+#EXTGRP:Россия 1
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/18042/index.m3u8
 #EXTINF:0 tvg-rec="0",VF New Year
 #EXTGRP:Kино
@@ -405,13 +405,13 @@ http://30822575.russtv.net/iptv/YS896AMA7E2K8P/733/index.m3u8
 #EXTGRP:Kино
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/734/index.m3u8
 #EXTINF:0 tvg-rec="7",НТВ‑ХИТ
-#EXTGRP:Kино
+#EXTGRP:НТВ
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/741/index.m3u8
 #EXTINF:0 tvg-rec="0",FAN HD
 #EXTGRP:Kино
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/16021/index.m3u8
 #EXTINF:0 tvg-rec="7",НТВ Сериал
-#EXTGRP:Kино
+#EXTGRP:НТВ
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/744/index.m3u8
 #EXTINF:0 tvg-rec="7",НСТ
 #EXTGRP:Kино
@@ -1704,10 +1704,10 @@ http://30822575.russtv.net/iptv/YS896AMA7E2K8P/14138/index.m3u8
 #EXTGRP:Mузыка
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/14139/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый музыкальный
-#EXTGRP:Mузыка
+#EXTGRP:Музыка
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/14143/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый музыкальный (Бел)
-#EXTGRP:Mузыка
+#EXTGRP:Музыка
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/14145/index.m3u8
 #EXTINF:0 tvg-rec="0",Fresh HD
 #EXTGRP:Mузыка
@@ -2481,7 +2481,7 @@ http://30822575.russtv.net/iptv/YS896AMA7E2K8P/157/index.m3u8
 #EXTGRP:Pазвлекательные
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/717/index.m3u8
 #EXTINF:0 tvg-rec="7",НТВ Стиль
-#EXTGRP:Pазвлекательные
+#EXTGRP:НТВ
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/745/index.m3u8
 #EXTINF:0 tvg-rec="3",Fashion One
 #EXTGRP:Pазвлекательные
@@ -2610,13 +2610,13 @@ http://30822575.russtv.net/iptv/YS896AMA7E2K8P/6034/index.m3u8
 #EXTGRP:Dругие
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/6048/index.m3u8
 #EXTINF:0 tvg-rec="0",НТВ +4
-#EXTGRP:Dругие
+#EXTGRP:НТВ
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/6024/index.m3u8
 #EXTINF:0 tvg-rec="0",НТВ +7
-#EXTGRP:Dругие
+#EXTGRP:НТВ
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/6039/index.m3u8
 #EXTINF:0 tvg-rec="0",НТВ +8
-#EXTGRP:Dругие
+#EXTGRP:НТВ
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/6053/index.m3u8
 #EXTINF:0 tvg-rec="0",ОТР +2
 #EXTGRP:Dругие
@@ -2697,7 +2697,7 @@ http://30822575.russtv.net/iptv/YS896AMA7E2K8P/6142/index.m3u8
 #EXTGRP:Dругие
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/6163/index.m3u8
 #EXTINF:0 tvg-rec="7",НТВ
-#EXTGRP:Dругие
+#EXTGRP:НТВ
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/501/index.m3u8
 #EXTINF:0 tvg-rec="7",ТНТ
 #EXTGRP:Dругие
@@ -2763,7 +2763,7 @@ http://30822575.russtv.net/iptv/YS896AMA7E2K8P/738/index.m3u8
 #EXTGRP:Dругие
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/739/index.m3u8
 #EXTINF:0 tvg-rec="7",НТВ Право
-#EXTGRP:Dругие
+#EXTGRP:НТВ
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/743/index.m3u8
 #EXTINF:0 tvg-rec="3",РЕН ТВ (+2)
 #EXTGRP:Dругие
@@ -3981,7 +3981,7 @@ http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15281/index.m3u8
 #EXTGRP:Dругие
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15282/index.m3u8
 #EXTINF:0 tvg-rec="0",ННТВ +0 (Китеж)
-#EXTGRP:Dругие
+#EXTGRP:НТВ
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15283/index.m3u8
 #EXTINF:0 tvg-rec="0",Ростов Папа
 #EXTGRP:Dругие
@@ -3990,7 +3990,7 @@ http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15285/index.m3u8
 #EXTGRP:Dругие
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15286/index.m3u8
 #EXTINF:0 tvg-rec="0",НТВ +4 (Алтай, Дианэт)
-#EXTGRP:Dругие
+#EXTGRP:НТВ
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15290/index.m3u8
 #EXTINF:0 tvg-rec="0",5 канал +4 (Алтай, Дианэт)
 #EXTGRP:Dругие
@@ -4026,7 +4026,7 @@ http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15303/index.m3u8
 #EXTGRP:Dругие
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15304/index.m3u8
 #EXTINF:0 tvg-rec="0",НТВ +2 (Уфа)
-#EXTGRP:Dругие
+#EXTGRP:НТВ
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15305/index.m3u8
 #EXTINF:0 tvg-rec="0",Звезда +2 (Уфа)
 #EXTGRP:Dругие
@@ -4038,7 +4038,7 @@ http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15308/index.m3u8
 #EXTGRP:Dругие
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15309/index.m3u8
 #EXTINF:0 tvg-rec="0",НТВ +0 (Липецк)
-#EXTGRP:Dругие
+#EXTGRP:НТВ
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15315/index.m3u8
 #EXTINF:0 tvg-rec="0",5 Канал +2 (Уфа)
 #EXTGRP:Dругие
@@ -4059,7 +4059,7 @@ http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15320/index.m3u8
 #EXTGRP:Dругие
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15321/index.m3u8
 #EXTINF:0 tvg-rec="0",НТВ +0 (Невинномысск)
-#EXTGRP:Dругие
+#EXTGRP:НТВ
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15322/index.m3u8
 #EXTINF:0 tvg-rec="0",Пятница! +0 (Невинномысск)
 #EXTGRP:Dругие
@@ -4083,7 +4083,7 @@ http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15331/index.m3u8
 #EXTGRP:Dругие
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15332/index.m3u8
 #EXTINF:0 tvg-rec="0",НТВ +7 (Владивосток)
-#EXTGRP:Dругие
+#EXTGRP:НТВ
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15336/index.m3u8
 #EXTINF:0 tvg-rec="0",5 канал +7 (Владивосток)
 #EXTGRP:Dругие
@@ -4197,10 +4197,10 @@ http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15382/index.m3u8
 #EXTGRP:Dругие
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15383/index.m3u8
 #EXTINF:0 tvg-rec="0",НТВ +2 (Нефтекамск)
-#EXTGRP:Dругие
+#EXTGRP:НТВ
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15384/index.m3u8
 #EXTINF:0 tvg-rec="0",НТВ +4 (Томск)
-#EXTGRP:Dругие
+#EXTGRP:НТВ
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15388/index.m3u8
 #EXTINF:0 tvg-rec="0",5 Канал +4 (Томск)
 #EXTGRP:Dругие
@@ -4236,7 +4236,7 @@ http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15402/index.m3u8
 #EXTGRP:Dругие
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15406/index.m3u8
 #EXTINF:0 tvg-rec="0",НТВ +0 (Белгород)
-#EXTGRP:Dругие
+#EXTGRP:НТВ
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15410/index.m3u8
 #EXTINF:0 tvg-rec="0",5 Канал +0 (Белгород)
 #EXTGRP:Dругие
@@ -4287,7 +4287,7 @@ http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15429/index.m3u8
 #EXTGRP:Dругие
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15430/index.m3u8
 #EXTINF:0 tvg-rec="0",НТВ +3 (Омск)
-#EXTGRP:Dругие
+#EXTGRP:НТВ
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15433/index.m3u8
 #EXTINF:0 tvg-rec="0",5 канал +3 (Омск)
 #EXTGRP:Dругие
@@ -4314,7 +4314,7 @@ http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15444/index.m3u8
 #EXTGRP:Dругие
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15445/index.m3u8
 #EXTINF:0 tvg-rec="0",НТВ +0 (Элиста)
-#EXTGRP:Dругие
+#EXTGRP:НТВ
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15449/index.m3u8
 #EXTINF:0 tvg-rec="0",5 Канал +0 (Элиста)
 #EXTGRP:Dругие
@@ -4350,7 +4350,7 @@ http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15462/index.m3u8
 #EXTGRP:Dругие
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15463/index.m3u8
 #EXTINF:0 tvg-rec="0",НТВ +0 (Тамбов)
-#EXTGRP:Dругие
+#EXTGRP:НТВ
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15466/index.m3u8
 #EXTINF:0 tvg-rec="0",5 канал +0 (Тамбов)
 #EXTGRP:Dругие
@@ -5307,10 +5307,10 @@ http://30822575.russtv.net/iptv/YS896AMA7E2K8P/18100/index.m3u8
 #EXTGRP:избранное
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/204/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый канал HD 50
-#EXTGRP:HD
+#EXTGRP:Первый канал
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15131/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый канал HD +4
-#EXTGRP:HD
+#EXTGRP:Первый канал
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15117/index.m3u8
 #EXTINF:0 tvg-rec="3",Amedia Hit HD
 #EXTGRP:HD
@@ -5553,7 +5553,7 @@ http://30822575.russtv.net/iptv/YS896AMA7E2K8P/203/index.m3u8
 #EXTGRP:избранное
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/205/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 HD 50
-#EXTGRP:HD
+#EXTGRP:Россия 1
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/15133/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Футбол 3 HD
 #EXTGRP:МАТЧ!
@@ -5574,7 +5574,7 @@ http://30822575.russtv.net/iptv/YS896AMA7E2K8P/211/index.m3u8
 #EXTGRP:МАТЧ!
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/212/index.m3u8
 #EXTINF:0 tvg-rec="7",НТВ HD
-#EXTGRP:HD
+#EXTGRP:НТВ
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/213/index.m3u8
 #EXTINF:0 tvg-rec="7",Телеканал КХЛ HD
 #EXTGRP:HD
@@ -6672,10 +6672,10 @@ http://30822575.russtv.net/iptv/YS896AMA7E2K8P/11108/index.m3u8
 #EXTGRP:USA
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/11109/index.m3u8
 #EXTINF:0 tvg-rec="7",Первый FHD
-#EXTGRP:HD Orig
+#EXTGRP:Первый канал
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/2402/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый HD Orig
-#EXTGRP:HD Orig
+#EXTGRP:Первый канал
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/7253/index.m3u8
 #EXTINF:0 tvg-rec="3",Canal+ Sport FHD PL
 #EXTGRP:HD Orig
@@ -7188,10 +7188,10 @@ http://30822575.russtv.net/iptv/YS896AMA7E2K8P/9144/index.m3u8
 #EXTGRP:HD Orig
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/9145/index.m3u8
 #EXTINF:0 tvg-rec="3",НТВ-ХИТ orig
-#EXTGRP:HD Orig
+#EXTGRP:НТВ
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/9146/index.m3u8
 #EXTINF:0 tvg-rec="3",НТВ Сериал orig
-#EXTGRP:HD Orig
+#EXTGRP:НТВ
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/9147/index.m3u8
 #EXTINF:0 tvg-rec="3",НСТ orig
 #EXTGRP:HD Orig
@@ -7347,13 +7347,13 @@ http://30822575.russtv.net/iptv/YS896AMA7E2K8P/9199/index.m3u8
 #EXTGRP:HD Orig
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/9200/index.m3u8
 #EXTINF:0 tvg-rec="3",Первый канал orig
-#EXTGRP:HD Orig
+#EXTGRP:Первый канал
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/9201/index.m3u8
 #EXTINF:0 tvg-rec="3",Россия 1 orig
-#EXTGRP:HD Orig
+#EXTGRP:Россия 1
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/9202/index.m3u8
 #EXTINF:0 tvg-rec="3",НТВ orig
-#EXTGRP:HD Orig
+#EXTGRP:НТВ
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/9203/index.m3u8
 #EXTINF:0 tvg-rec="3",ТНТ orig
 #EXTGRP:HD Orig
@@ -7710,10 +7710,10 @@ http://30822575.russtv.net/iptv/YS896AMA7E2K8P/9325/index.m3u8
 #EXTGRP:HD Orig
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/9326/index.m3u8
 #EXTINF:0 tvg-rec="3",НТВ Право orig
-#EXTGRP:HD Orig
+#EXTGRP:НТВ
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/9327/index.m3u8
 #EXTINF:0 tvg-rec="3",НТВ Стиль orig
-#EXTGRP:HD Orig
+#EXTGRP:НТВ
 http://30822575.russtv.net/iptv/YS896AMA7E2K8P/9328/index.m3u8
 #EXTINF:0 tvg-rec="3",Кто Куда orig
 #EXTGRP:HD Orig
